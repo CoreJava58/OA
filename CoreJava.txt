@@ -1,3 +1,4 @@
 CoreJava Startup On Server
 CoreJava Stop in local
 Test Pass 2
+password username
