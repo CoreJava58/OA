@@ -1,1 +1,2 @@
-CoreJava Startup On Server 
+CoreJava Startup On Server
+CoreJava Stop in local
